@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### About Me🤖:
+### About Me:
 
 - 📖 Studying at the School of Software, Dalian University of Technology
   
