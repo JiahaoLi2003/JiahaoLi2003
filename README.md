@@ -8,5 +8,5 @@
 
 - ⌨️ My-Blog ： https://jiahaoli2003.github.io
   
-- 📫 E-mail ： jiahaoli.dlut@gmail.com
+- 📫 E-mail ： jiahaoli0301@gmail.com
 
