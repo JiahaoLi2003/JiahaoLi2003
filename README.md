@@ -4,7 +4,7 @@
 
 - 📖 Studying at the School of Software, Dalian University of Technology
 
-- Working at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) as a visiting scholars
+- 🔎 Working at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) as a visiting scholars
   
 - 🌱 Learning around LLM & (multi-)agent
 
