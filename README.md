@@ -8,7 +8,7 @@
   
 - 🌱 Learning around LLM & (multi-)agent
 
-- ⌨️ My-Blog ： https://jiahaoli2003.github.io
+- ⌨️ My-Blog ： https://jiahaoli2003.github.io/about/
   
 - 📫 E-mail ： jiahaoli0301@gmail.com
 
