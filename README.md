@@ -1,8 +1,6 @@
 ## Hi there 👋
 ### About Me:
 - 📖 Studying at the School of Software, Dalian University of Technology
-
-- 🔎 Researching at [THUNLP](https://nlp.csai.tsinghua.edu.cn/) as a research intern
   
 - 🌱 Learning around LLM & (multi-)agent
 
