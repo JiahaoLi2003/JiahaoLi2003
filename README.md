@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### About Me:
-- 📖 Studying at the School of Software, Dalian University of Technology
+- 📖 Master student in Tsinghua University
   
 - 🌱 Learning around LLM & (multi-)agent
 
